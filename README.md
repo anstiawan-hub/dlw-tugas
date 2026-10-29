@@ -8,9 +8,9 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | [Aan Setiawan] | [124400039] |
+| Anggota | [Nis] | [124400060] |
+| Anggota | [Atia Dewi CANDR] | [124400042] |
 
 - **Kelas:** [RA / RB]
 - **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
