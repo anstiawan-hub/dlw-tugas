@@ -13,7 +13,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 | Anggota | [Atia Dewi CANDR] | [124400042] |
 
 - **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
+- **Lokasi kelompok:** [0] — [Stazione Centrale] (0)
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
